@@ -29,7 +29,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:xess
 LIBS:RPi_Hat-cache
 EELAYER 25 0
 EELAYER END
@@ -46,7 +45,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1400 1400 1000 1000
+S 1350 950  1000 1000
 U 5515D395
 F0 "RPi_GPIO" 60
 F1 "RPi_GPIO.sch" 60

@@ -1,11 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-15 BZR 5517)-product   date = 04/05/2015 2:15:05 PM
-
-BeginCmp
-TimeStamp = /5515D395/5515D39E;
-Reference = J1;
-ValeurCmp = RPi_GPIO;
-IdModule  = RPi_Hat:Samtec_HLE-120-02-XXX-DV-BE-XX-XX;
-EndCmp
+Cmp-Mod V01 Created by Cvpcb (2015-04-12 BZR 5595)-product   date = lø. 25. april 2015 kl. 19.07 +0200
 
 BeginCmp
 TimeStamp = /5515D395/5516AE26;
