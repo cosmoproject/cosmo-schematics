@@ -1,4 +1,4 @@
-update=03/28/2015 11:09:15 AM
+update=lø. 25. april 2015 kl. 19.35 +0200
 version=1
 last_client=kicad
 [cvpcb]
@@ -24,6 +24,8 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=C:/xesscorp/KiCad/libraries
@@ -59,5 +61,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=xess
-[general]
-version=1
+LibName32=MP1496
