@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name TSOT23)(type Legacy)(uri "$(KIPRJMOD)/TSOT23.mod")(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri "$(KIPRJMOD)/custom.pretty")(options "")(descr ""))
+  (lib (name w_pth_circuits)(type KiCad)(uri "$(KIPRJMOD)/w_pth_circuits.pretty")(options "")(descr ""))
+)
