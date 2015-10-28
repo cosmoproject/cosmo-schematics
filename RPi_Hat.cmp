@@ -143,8 +143,8 @@ EndCmp
 BeginCmp
 TimeStamp = /553D0FD5;
 Reference = P2;
-ValeurCmp = CONN_02X08;
-IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
 EndCmp
 
 BeginCmp
