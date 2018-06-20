@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name RELAY-HLS8L-DC5V-S-C_5P-19X15MM_)(type Legacy)(uri "$(KIPRJMOD)/snapeda/RELAY-HLS8L-DC5V-S-C_5P-19X15MM_.mod")(options "")(descr ""))
+  (lib (name Seeed-OPL-Connector)(type Legacy)(uri "$(KIPRJMOD)/seed/Seeed-OPL-Connector.mod")(options "")(descr ""))
+  (lib (name Seeed-OPL-Capacitor)(type Legacy)(uri "$(KIPRJMOD)/seed/Seeed-OPL-Capacitor.mod")(options "")(descr ""))
+  (lib (name Seeed-OPL-Diode)(type Legacy)(uri "$(KIPRJMOD)/seed/Seeed-OPL-Diode.mod")(options "")(descr ""))
+)
